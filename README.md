@@ -1,4 +1,5 @@
-# Getting Started with Create React App
+Contador de clics con react, utlizando hooks. 
+Clic counter with react using hooks. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
